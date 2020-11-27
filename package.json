@@ -1,0 +1,11 @@
+{
+  "name": "percal",
+  "version": "1.0.0",
+  "description": "Calculation special permission",
+  "main": "percal.js",
+  "scripts": {
+    "test": "node test/index.test"
+  },
+  "author": "whoishina",
+  "license": "ISC"
+}
