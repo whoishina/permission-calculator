@@ -14,6 +14,6 @@ const PAGE_PERMISSIONS_REQUIRE = {
 
 console.log('Danh sách quyền của người dùng ', getArrayPermission(2147483647))
 
-console.log("Các quyền cần thiết ",toHexArray(PAGE_PERMISSIONS_REQUIRE) )
+console.log("Các quyền cần thiết ", toHexArray(PAGE_PERMISSIONS_REQUIRE) )
 
 console.log('Có đù quyền hay không ?', isHasPermission(PAGE_PERMISSIONS_REQUIRE , 2147483647 ) )
