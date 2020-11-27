@@ -25,7 +25,7 @@ Lets take a look you will understand :3
 #### Run install 
 
 ```bash
-    npm i whoishina/percal
+    npm i percal
 ```
 
 #### Require as module
